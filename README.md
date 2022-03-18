@@ -22,6 +22,9 @@ THEN I can save my initials and my score.
 Hows the score work if incorrect time is deducted from your time limit of 60 seconds, which starts after you click the start quiz button.
 After you have finished you are prompted to enter your score. Then it is stored locally and you can see it against your peers by clicking the veiw scores button.
 
+Please see link to where Quiz is situated:
+https://neale2021.github.io/Java-Quiz-Homework-week-4/
+
 Please see screen shots of the Website.
 
 Start Screen:
